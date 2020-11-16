@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         //koment
         //ando
+        //ando2
     }
 }
